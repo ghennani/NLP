@@ -1,0 +1,19 @@
+#Question1:
+#En Utilisant la bibliothèque re, trouvez tous les occurrences du mot gpt?
+#Question2:
+#Deviser le text en phrase pour chaque paragpraphe?quel est le nombre de phrases?
+#Question3:
+#Tokanisez le text de fichier sans utiliser split?quel est le nombre de mots pour chaque paragraphe?
+#Question4:
+#Eliminer les mots vides?
+#Question5:
+#Appliquez les POS pour le premier paragraphe?
+#Question6:
+#En supposant que chaque paragraphe est un document.
+#Appliquez le BOW ?
+#Question7:
+#Calculez le TF-IDF pour chaque mot?
+#Question8:
+# Chargez glove dans un dictionnaire?
+#Question9:
+#En utilisant glove, Calculez la similarité de 10 premiers mots avec les 10 suivants selon la valeur TF-IDF?
